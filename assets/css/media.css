@@ -1,0 +1,9 @@
+/* Small Screen mobile */
+@media (max-width:600px) {
+    
+}
+
+/* Meduem Screen tablet */
+@media(min-width:601px) and (max-width:900px){
+    
+}
